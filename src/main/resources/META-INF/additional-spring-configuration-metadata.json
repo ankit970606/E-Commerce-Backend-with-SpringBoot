@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "spring.datasoucre.hikari.auto-commit",
+  "type": "java.lang.String",
+  "description": "A description for 'spring.datasoucre.hikari.auto-commit'"
+}]}

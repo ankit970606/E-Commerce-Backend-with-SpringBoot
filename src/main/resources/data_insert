@@ -1,0 +1,16 @@
+INSERT INTO Product (
+    id,
+    name,
+    description,
+    brand,
+    price,
+    category,
+    release_date,
+    product_available,
+    stock_quantity
+) VALUES
+    (1, 'iPhone 15', 'The latest Apple smartphone with advanced features.', 'Apple', 999.99, 'Electronics', '2023-09-22', true, 200),
+    (2, 'Samsung Galaxy S24', 'A premium smartphone with a stunning display and powerful performance.', 'Samsung', 1199.99, 'Electronics', '2024-01-10', true, 150),
+    (3, 'MacBook Pro 16', 'A high-performance laptop for professionals and creators.', 'Apple', 2499.99, 'Computers', '2023-11-01', true, 50),
+    (4, 'Nike Air Max 97', 'Iconic sneakers for everyday comfort and style.', 'Nike', 179.99, 'Footwear', '2023-05-15', true, 300),
+    (5, 'Sony WH-1000XM5', 'Noise-canceling headphones with superior sound quality.', 'Sony', 399.99, 'Accessories', '2022-10-05', true, 120);
